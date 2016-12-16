@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" android:id="@+id/macList">
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="60dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="-2dp"
+        android:layout_marginRight="-2dp"
+        android:id="@+id/list_item">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Fatih Türker"
+            android:id="@+id/lblName"
+            android:textSize="14dp"
+            android:textIsSelectable="false"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="20dp"
+            android:textStyle="normal|bold"
+            android:textAlignment="center"
+            android:gravity="left" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="5435802170"
+            android:id="@+id/lblNumber"
+            android:layout_below="@+id/lblName"
+            android:layout_alignLeft="@+id/lblName"
+            android:layout_alignStart="@+id/lblName"
+            android:layout_marginTop="5dp"
+            android:textStyle="bold"
+            android:textSize="14dp"
+            android:textAlignment="center"
+            android:gravity="left" />
+
+    </RelativeLayout>
+
+</RelativeLayout>

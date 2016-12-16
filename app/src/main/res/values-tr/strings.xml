@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Numara Bulucu</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="continue_button">Devam</string>
+    <string name="eg_number">ör. 05554443332</string>
+    <string name="eg_username">ör. Cahit Arf</string>
+    <string name="loading">Yükleniyor...</string>
+    <string name="searching">Aranıyor...</string>
+    <string name="verification_problem">Doğrulama Sorunu!</string>
+    <string name="search_button">Ara</string>
+    <string name="preparing">Hazırlanıyor...</string>
+    <string name="person_search">Kişi Adı İle Ara</string>
+    <string name="number_search">Telefon Numarası İle Ara</string>
+    <string name="no_record">Kayıt Bulunamadı!</string>
+    <string name="network_problem">İnternet Sorunu!</string>
+    <string name="network_alert">Lütfen İnternet Bağlantınız Olduğundan Emin Olun.</string>
+    <string name="name_alert">Lütfen İsim ve Soyisim Bilgilerinizi Doğru Girdiğinizden Emin Olun.</string>
+    <string name="enter_text">Hesabınızı Doğrulamak İçin İsim ve Soyisim Bilgilerinizi Doğru Girdiğinizden Emin Olun.</string>
+    <string name="no_record_alert">Aradığınız Kayıt Bulunamadı, Fakat Üzülmeyin! Sizin İçin En Kısa Zamanda O Kaydı Ekleyeceğiz.</string>
+    <string name="search_key_alert">Lütfen Arama Anahtarını Doğru Girdiğinizden Emin Olun.</string>
+    <string name="contact_permission">Uygulama Kişi Listenize Erişmek İstiyor. İzin Veriyor Musunuz?</string>
+    <string name="permission_request">İzin Talebi!</string>
+</resources>

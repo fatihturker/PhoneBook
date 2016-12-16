@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Phone Numbers</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_search">SearchActivity</string>
+
+    <string name="eg_username">e.g. John Nash</string>
+    <string name="eg_number">e.g. 05554443332</string>
+    <string name="verification_problem">Verification Problem!</string>
+    <string name="no_record">No Record!</string>
+    <string name="network_problem">Network Problem!</string>
+    <string name="permission_request">Permission Request!</string>
+    <string name="searching">Searching...</string>
+    <string name="loading">Loading...</string>
+    <string name="preparing">Preparing...</string>
+
+    <string name="enter_text">Please Enter Your Name And Surname To Verify Your Account</string>
+    <string name="number_search">Search By Phone Number</string>
+    <string name="person_search">Search By Person Name</string>
+
+    <string name="search_key_alert">"Please Make Sure You Enter The Search Key Correctly."</string>
+    <string name="no_record_alert">"We Could Not Find Any Record but Do Not Be Upset! We Will Add That Record A.S.A.P.."</string>
+    <string name="name_alert">Please Make Sure You Type Your Name And Surname Correctly.</string>
+    <string name="network_alert">Please Make Sure You Have an Internet Connection.</string>
+    <string name="contact_permission">Application Will Reach Your Contact List. Do you confirm this request?</string>
+    <string name="continue_button">Continue</string>
+    <string name="search_button">Search</string>
+</resources>
